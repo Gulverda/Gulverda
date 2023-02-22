@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka Gulverdashvili</h1>
 <h3 align="center">Dedicated and detail-oriented Junior Web Developer. Competent to carry out operations and work collaboratively with other team members to meet deadline objectives. I'm highly motivated for becoming a full-stack developer and work on real projects.</h3>
 
-https://www.bing.com/images/search?view=detailV2&ccid=UI29PayF&id=32240339F45589D0C6162F4010DE361CDD697D6B&thid=OIP.UI29PayFsPt1DqZ-RHcx9gHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f239755%2fscreenshots%2f3019824%2fdave_coding_dribbble.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.508dbd3dac85b0fb750ea67e447731f6%3frik%3da31p3Rw23hBALw%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=animate+bald+coding+gif&simid=608030072512454831&FORM=IRPRST&ck=1882CEC4E6608D2971A664D5A9A17668&selectedIndex=11&ajaxhist=0&ajaxserp=0
+https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulverda&label=Profile%20views&color=0e75b6&style=flat" alt="gulverda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulverda" alt="gulverda" /></a> </p>
