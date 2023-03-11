@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luka Gulverdashvili</h1>
 <h3 align="center">Dedicated and detail-oriented Junior Web Developer. Competent to carry out operations and work collaboratively with other team members to meet deadline objectives. I'm highly motivated for becoming a full-stack developer and work on real projects.</h3>
 
-<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<!-- <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> -->
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif](https://miro.medium.com/v2/resize:fit:800/1*mr7WXw8tgpMhqugKP2WhrA.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulverda&label=Profile%20views&color=0e75b6&style=flat" alt="gulverda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulverda" alt="gulverda" /></a> </p>
