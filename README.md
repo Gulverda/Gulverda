@@ -2,7 +2,7 @@
 <h3 align="center">Dedicated and detail-oriented Junior Web Developer. Competent to carry out operations and work collaboratively with other team members to meet deadline objectives. I'm highly motivated for becoming a full-stack developer and work on real projects.</h3>
 
 <!-- <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> -->
-<img src="https://media.tenor.com/3bTxZ4HdrysAAAAS/pixels-neon.gif" width="100%">
+<img src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulverda&label=Profile%20views&color=0e75b6&style=flat" alt="gulverda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulverda" alt="gulverda" /></a> </p>
