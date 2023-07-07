@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulverda" alt="gulverda" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/luka-g-32bb0a205/](https://www.linkedin.com/in/luka-g-32bb0a205/)
 
