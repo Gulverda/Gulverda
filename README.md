@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luka Gulverdashvili</h1>
-<h3 align="center">Dedicated and detail-oriented Junior Web Developer. Competent to carry out operations and work collaboratively with other team members to meet deadline objectives. I'm highly motivated for becoming a full-stack developer and work on real projects.</h3>
+<h3 align="center">Detail-oriented Junior Web Developer. Competent to carry out operations and work collaboratively with other team members to meet deadline objectives. I'm highly motivated for becoming a full-stack developer and work on real projects.</h3>
 
 <!-- <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> -->
 <img src="https://camo.githubusercontent.com/228b1d6642b99081f33d21e43edfdcf7646a17de495416574472ac6ae59fa3e3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313031393836342f73637265656e73686f74732f333037393039392f636f64656c6f6f702e676966" width="100%">
