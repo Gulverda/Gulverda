@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/luka-g-32bb0a205/](https://www.linkedin.com/in/luka-g-32bb0a205/)
 
-- 💬 Ask me about **HTML/CSS/JS/React.js/TS**
+- 💬 Ask me about **HTML/CSS/JS/React.js/TS/Next.js**
 
 - 📫 How to reach me **lukagulverdashvili49@gmail.com**
 
