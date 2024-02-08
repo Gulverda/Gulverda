@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka Gulverdashvili</h1>
 <h3 align="center">Dedicated detail-oriented Junior Web Developer. Competent to carry out operations and work collaboratively with other team members to meet deadline objectives. I'm highly motivated for becoming a full-stack developer and work on real projects.</h3>
 
-<!-- <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> -->
+
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulverda&label=Profile%20views&color=0e75b6&style=flat" alt="gulverda" /> </p>
 
