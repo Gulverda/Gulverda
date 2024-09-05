@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luka Gulverdashvili</h1>
-<h3 align="center">Dedicated detail-oriented Junior Web Developer. Competent to carry out operations and work collaboratively with other team members to meet deadline objectives. I'm highly motivated for becoming a full-stack developer and work on real projects.</h3>
+<h3 align="center">A skilled Front-End Developer with a robust foundation in HTML, CSS, JavaScript, and React.js, I am focused on delivering user-centric and responsive web solutions. My expertise extends to backend technologies, including Python, Flask, SQL Server, and MongoDB, enabling me to contribute to full-stack development. I thrive in collaborative environments, where I continuously enhance my skills and embrace new challenges, staying attuned to the latest industry trends.
+
+
+</h3>
 
 
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="100%">
