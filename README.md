@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luka Gulverdashvili</h1>
-<h3 align="center">A skilled Front-End Developer with a robust foundation in HTML, CSS, JavaScript, and React.js, I am focused on delivering user-centric and responsive web solutions. My expertise extends to backend technologies, including Python, Flask, SQL Server, and MongoDB, enabling me to contribute to full-stack development. I thrive in collaborative environments, where I continuously enhance my skills and embrace new challenges, staying attuned to the latest industry trends.
+<h3 align="center">I am a proficient Front-End Developer with a strong foundation in HTML, CSS, JavaScript, and React.js, focused on crafting user-centric and responsive web solutions. While my primary expertise lies in front-end development, I also have experience with the MERN stack, including Node.js and MongoDB, and am actively working towards expanding my skills in full-stack development. I thrive in collaborative environments, continuously enhancing my abilities, embracing new challenges, and staying updated with the latest industry trends to deliver innovative and effective solutions.
 
 
 </h3>
